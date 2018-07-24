@@ -1,0 +1,91 @@
+﻿Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Korg
+Control Surface Model	nanoKEY2
+Map Version	1.4.3
+
+Scope	Propellerheads	Reason Document	
+Map	Track Down		Target Previous Track
+Map	Track Up		Target Next Track
+
+Map	Patch Down		Select Prev Patch for Target Device
+Map	Patch Up		Select Next Patch for Target Device
+
+
+Map	LOOP		Loop On/Off
+Map	REWIND		Rewind
+Map	FORWARD		Fast Forward
+Map	STOP		Stop
+Map	PLAY		Play
+Map	RECORD		Record
+
+Map	UNDO		Undo
+Map	REDO		Redo
+
+////////////////////
+Scope	Propellerheads	Reason Essentials Document	
+Map	Track Down		Target Previous Track
+Map	Track Up		Target Next Track
+
+Map	Patch Down		Select Prev Patch for Target Device
+Map	Patch Up		Select Next Patch for Target Device
+
+
+Map	LOOP		Loop On/Off
+Map	REWIND		Rewind
+Map	FORWARD		Fast Forward
+Map	STOP		Stop
+Map	PLAY		Play
+Map	RECORD		Record
+
+Map	UNDO		Undo
+Map	REDO		Redo
+
+////////////////////
+Scope	Propellerheads	Record Document	
+Map	Track Down		Target Previous Track
+Map	Track Up		Target Next Track
+
+Map	Patch Down		Select Prev Patch for Target Device
+Map	Patch Up		Select Next Patch for Target Device
+
+
+Map	LOOP		Loop On/Off
+Map	REWIND		Rewind
+Map	FORWARD		Fast Forward
+Map	STOP		Stop
+Map	PLAY		Play
+Map	RECORD		Record
+
+Map	UNDO		Undo
+Map	REDO		Redo
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+Map	Key24Velo		Filter Freq
+Map	Key25Velo		Filter Res
+
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard
+Map	Pitch Bend		Pitch Bend
+Map	Mod		Mod Wheel
+Map	Sustain		Damper Pedal
+
+
+//<	20110628
+Scope	Propellerheads	Alligator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Sustain		Pattern Enable
+
+
+Scope	Propellerheads	Pulveriser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Sustain		Follower Trig
+
+
+Scope	Propellerheads	The Echo
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Sustain		Trig
+//<	20110711
